@@ -5,7 +5,6 @@
 
 <p align="center">
   <img src="screenshots/bot.png" alt="Slack Ping Bot" width="300"/>
-  <img src="screenshots/file.png" alt="Slack Ping Bot Codes" width="300"/>
   <br />
      Welcome to the README for our Slack bot built with GoLang and the Slack API. This bot allows you to interact with Slack using custom commands.
 </p>
